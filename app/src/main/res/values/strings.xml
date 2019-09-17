@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesMvvmApi</string>
+    <string name="apiKey">c209d0018d50fdf55d73af7d861593da</string>
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>
